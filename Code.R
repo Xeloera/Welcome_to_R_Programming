@@ -8,5 +8,3 @@ second <- function(x){
 }
 
 print(x)
-
-this is another commit
